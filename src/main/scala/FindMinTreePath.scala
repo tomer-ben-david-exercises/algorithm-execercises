@@ -1,4 +1,7 @@
 package com.example
+/**
+ * @author tomerb
+ **
 
 // Find the minimal path to least farthest descendant.
 object FindMin {
